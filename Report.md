@@ -94,6 +94,8 @@ The task was completed in 2346 episodes!
 - Further Hyperparamter tweaking can also lead to much better performance and/or efficiency.
 - Experiment with more Actor-Critic algorithms like D4PG, A2C, AKTR
 
+  Author: [Vihaan Misra](http://github.com/convexalpha) 
+
 
 
 
