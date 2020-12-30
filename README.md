@@ -33,7 +33,7 @@ Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/
 
 The file needs to placed in the root directory of this repository and unzipped.
 
-Path to the executable has to be provided to `UnityEnvironment` function in `Tennis.ipynb` 
+Path to the executable has to be provided to `UnityEnvironment` function in `TennisAI.ipynb` 
 
 For example on 64-bit Windows:
 ```python
