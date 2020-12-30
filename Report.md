@@ -87,7 +87,7 @@ Sample Video of the output
 ### Reward Plot 
 ![sample_plot](assets/training_plot.png)
 
-The agents were trained in 2346 episodes!
+The task was completed in 2346 episodes!
 
 ## Future Work
 - Training both the agents separately as they are currently trained on the same neural networks.
