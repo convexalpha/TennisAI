@@ -79,7 +79,9 @@ In used Multi-Agent DDPG algorithm two deep neural networks are used and are cha
 
 ## Result 
 
-Sample Video of the output:
+Sample Video of the output
+
+
 ![trained_agent_sample](assets/trained_agent.gif)
 
 ### Reward Plot 
