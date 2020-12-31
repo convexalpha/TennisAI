@@ -21,7 +21,7 @@ The environment is considered solved, when the **average (over 100 episodes)** o
 :warning: You may encounter PyTorch installation issues on Windows 10. Looks like required version of PyTorch must be installed using conda: `conda install pytorch=0.4.0 -c pytorch` before running `pip install` in Point 3.
 
 
-2. Download custom Tennis environment (Unity ML-Agents env) prepared by Udacity
+2. Download custom Tennis environment (Unity ML-Agents env)
 
 Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
 
