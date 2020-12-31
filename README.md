@@ -16,7 +16,7 @@ The task is episodic, and in order to solve the environment, agents must get an 
 The environment is considered solved, when the **average (over 100 episodes)** of those scores is at least **+0.5**.
 
 ## Getting Started 
-. Prepare new Conda environment following guidelines on [Udacity DRL repo](https://github.com/udacity/deep-reinforcement-learning#dependencies) 
+1. Prepare new Conda environment
 
 :warning: You may encounter PyTorch installation issues on Windows 10. Looks like required version of PyTorch must be installed using conda: `conda install pytorch=0.4.0 -c pytorch` before running `pip install` in Point 3.
 
